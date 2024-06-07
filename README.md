@@ -12,20 +12,20 @@ Description: Practice writing basic SELECT statements to retrieve data from a si
 ### Exercise 2: More SELECT Statements
 Description: Practice writing more complex SELECT statements to retrieve data from another table.
 
-### Exercise 3: Select Within Select
+### Exercise 3: SELECT Within SELECT
 Description: Demonstrate the ability to use subqueries within select statements to retrieve data based on specific conditions.
 
-### Exercise 4: Sum and Count Operations
+### Exercise 4: SUM and COUNT Operations
 Description: Showcase proficiency in using aggregate functions like SUM and COUNT to perform calculations and count occurrences.
 
-### Exercise 4: Join Statements
+### Exercise 5: JOIN Operations
 Description: Practice using join statements to combine data from multiple tables based on common columns.
 
-### Exercise 5: More JOIN Statements
+### Exercise 6: More JOIN operations
 Description: Practice using more complex join statements to combine data from multiple tables based on common columns.
 
-### Exercise 6: Using NULL Statements
+### Exercise 7: Using NULL Statements
 Description: Practice using null statements to filter data, when it is empty/null.
 
-### Exercise 5:Self JOIN Statements
+### Exercise 8: Self JOIN operations
 Description: Practice using self join statements to combine data.
